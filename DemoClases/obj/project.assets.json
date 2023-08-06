@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/arteN01-036/.nuget/packages/": {}
+    "C:\\Users\\57301\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arteN01-036/juandiego/DemoClases/DemoClases.csproj",
+      "projectUniqueName": "c:\\Users\\57301\\Desktop\\JuanDiego\\ProyectosCsharp\\LigasCS\\LigasCsharp\\DemoClases\\DemoClases.csproj",
       "projectName": "DemoClases",
-      "projectPath": "/home/arteN01-036/juandiego/DemoClases/DemoClases.csproj",
-      "packagesPath": "/home/arteN01-036/.nuget/packages/",
-      "outputPath": "/home/arteN01-036/juandiego/DemoClases/obj/",
+      "projectPath": "c:\\Users\\57301\\Desktop\\JuanDiego\\ProyectosCsharp\\LigasCS\\LigasCsharp\\DemoClases\\DemoClases.csproj",
+      "packagesPath": "C:\\Users\\57301\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\57301\\Desktop\\JuanDiego\\ProyectosCsharp\\LigasCS\\LigasCsharp\\DemoClases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/arteN01-036/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\57301\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
